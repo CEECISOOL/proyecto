@@ -26,7 +26,7 @@
     <nav class="navbar bg-dark" data-bs-theme="dark">
         <p class="navbar-brand">
             <img src="/argentina.png" alt="Logo" width="45" height="45">
-            Sistema de gestion de provincias argentinas
+            Sistema de gestión de provincias argentinas
         </p>
     </nav>
     @yield('content')
